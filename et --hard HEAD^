@@ -1,0 +1,109 @@
+[33mcommit 117acd02ee88292165eb72cdf5db6c03c7ed8b70[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: hansj <hanblues@gmail.com>
+Date:   Fri Oct 9 09:30:57 2020 +0900
+
+    'swagger'
+
+[33mcommit 271530d2a3e18ab2596040fe35f68169ed68dad3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: hanblues <hanblues@gmail.com>
+Date:   Thu Oct 8 14:34:22 2020 +0900
+
+    'docker'
+
+[33mcommit 2f5128ce6e42b5a1ae0410263a73f12f0e21bbbb[m
+Author: hanblues <hanblues@gmail.com>
+Date:   Thu Oct 8 13:40:00 2020 +0900
+
+    link
+
+[33mcommit d582efb5c6f33339ebe1b38a035627bd1b5e2fec[m
+Author: hanblues <hanblues@gmail.com>
+Date:   Thu Oct 8 13:38:25 2020 +0900
+
+    link
+
+[33mcommit 18b449651b5c402d2edbbbc452a3433a0849ef7a[m
+Author: hanblues <hanblues@gmail.com>
+Date:   Thu Oct 8 13:36:07 2020 +0900
+
+    info
+
+[33mcommit 1538a2bab7a359353cf6cd878e1ec7fd73b76f64[m
+Merge: afa7651 11b45d3
+Author: hanblues <hanblues@gmail.com>
+Date:   Thu Oct 8 12:40:52 2020 +0900
+
+    Merge branch 'main' of https://github.com/seungjinhan/education_programmer into main
+
+[33mcommit afa7651746a7318fd065ec745721aec9cb8fec2e[m
+Author: hanblues <hanblues@gmail.com>
+Date:   Thu Oct 8 12:39:53 2020 +0900
+
+    remove
+
+[33mcommit 11b45d34949f26f2f02ea89ea7b6eba969cc9986[m
+Author: jimmy.han <hanblues@gmail.com>
+Date:   Thu Oct 8 12:37:55 2020 +0900
+
+    Delete demo.txt
+
+[33mcommit ec1f2139a981972753a4b1add7a76baed89e5f89[m
+Author: hanblues <hanblues@gmail.com>
+Date:   Thu Oct 8 11:15:12 2020 +0900
+
+    'a'
+
+[33mcommit 6b25eb9e09ce6a7f821b2d61b163ebc26916e9d7[m
+Author: hanblues <hanblues@gmail.com>
+Date:   Thu Oct 8 11:07:38 2020 +0900
+
+    me
+
+[33mcommit 36a6cdeb65ab85a1f4801ec34c88bf01a66a5e46[m
+Author: hanblues <hanblues@gmail.com>
+Date:   Thu Oct 8 10:50:45 2020 +0900
+
+    'modify3'
+
+[33mcommit f0e645332790b9752cbbe4ebd506c704d04a534f[m
+Author: hanblues <hanblues@gmail.com>
+Date:   Thu Oct 8 10:50:00 2020 +0900
+
+    'modify'
+
+[33mcommit 247e515f12bfc25b4ae5c025583edf3e9c525ade[m
+Author: hanblues <hanblues@gmail.com>
+Date:   Thu Oct 8 10:47:31 2020 +0900
+
+    'modify'
+
+[33mcommit 6e349958552c8cbde865edbe884ff37a39d8e23b[m
+Merge: 09ebc7d 8e2b7f7
+Author: hanblues <hanblues@gmail.com>
+Date:   Thu Oct 8 10:39:25 2020 +0900
+
+    'b'
+
+[33mcommit 09ebc7d97c851eb4b25579ab0f94a00ccaea49d0[m
+Author: hanblues <hanblues@gmail.com>
+Date:   Thu Oct 8 10:38:02 2020 +0900
+
+    'a'
+
+[33mcommit 8e2b7f7ac7f5e3b1a9f23a5a8cfe3fa3821114df[m
+Author: hanblues <hanblues@gmail.com>
+Date:   Thu Oct 8 10:29:50 2020 +0900
+
+    'han2_modify'
+
+[33mcommit 5b5a76cd4960e11dba66053ec0b4f7cb4a78a35d[m
+Author: hanblues <hanblues@gmail.com>
+Date:   Thu Oct 8 10:23:57 2020 +0900
+
+    first
+
+[33mcommit a0de5c09ccec0337165306cb12bb00d2b8150cd6[m
+Author: jimmy.han <hanblues@gmail.com>
+Date:   Thu Oct 8 10:18:05 2020 +0900
+
+    Initial commit
