@@ -16,5 +16,11 @@
         "org.springframework.test.web.servlet.result.MockMvcResultMatchers.*",
         "org.springframework.test.web.servlet.result.MockMvcResultHandlers.*",
         "org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.*",
-      ]
+      ],
+      "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+      }
 }
