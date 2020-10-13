@@ -11,8 +11,8 @@ public class EventValidator {
 	public void validate( EventDto eventDto, Errors errors) {
 		if( eventDto.getMaxPrice() < eventDto.getBasePrice() && eventDto.getMaxPrice() != 0) {
 			
-			errors.rejectValue("basePrice", "wrong value" ,"BasePrice is wrong");
-			errors.rejectValue("maxPrice", "wrong value" ,"MaxPrice is wrong");
+			errors.rejectValue("basePrice", "wrongvalue" ,"BasePrice is wrong");
+			errors.rejectValue("maxPrice", "wrongvalue" ,"MaxPrice is wrong");
 			errors.reject("wrongPrices" , "Prices are wrong");
 		}
 		
